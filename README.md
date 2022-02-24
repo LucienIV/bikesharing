@@ -14,9 +14,11 @@ The purpose of this project is to analyze a bike sharing program set up in New Y
 This combination of two visualizations shows that the top starting and ending locations are incredibly similar. Though there are various locations throughout the city, the most popular locations for starting and stopping trips are roughly the same.
 
 ![image](https://user-images.githubusercontent.com/92831138/155574603-3fe981e5-8c9d-41fc-8b3b-2dea00eef0bd.png)
+
 As can be seen in this visualization, the duration of a given trip peaks around 5 minutes at ~146,000. The number of trips exceeding an hour are in the triple digits and trips exceeding two hours are in the double digits comparatively.
 
 ![image](https://user-images.githubusercontent.com/92831138/155574927-aeed6249-4a3c-4dc2-95e8-24a5a236d249.png)
+
 This visualization displays that male users are by far the most frequent across all trip durations. At the peak trip duration the number of male users is more than triple that of female users.
 
 ![image](https://user-images.githubusercontent.com/92831138/155575011-1aac5cfc-d29b-4e37-b78b-f26bb692fd5e.png)
